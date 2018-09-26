@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Laboratorio de Innovación Mintic</title>
+    <description>Entorno de aprendizaje</description>
+    <link>https://laboratorio-mintic.github.io/</link>
+    <atom:link href="https://laboratorio-mintic.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 25 Sep 2018 21:27:31 -0500</pubDate>
+    <lastBuildDate>Tue, 25 Sep 2018 21:27:31 -0500</lastBuildDate>
+    <generator>Jekyll v3.8.4</generator>
+    
+      <item>
+        <title>Qué es el laboratorio</title>
+        <description>&lt;p&gt;Para los últimos años, y ante a la necesidad que enfrentan las Entidades del Estado de proveer más y mejores trámites y servicios, proporcionar espacios de participación efectiva para los ciudadanos en la toma de decisiones e implementar procesos de modernización en la gestión pública, han surgido grandes retos, en donde el uso y apropiación de la tecnología y la innovación proporciona herramientas de solución a sus problemas. En este sentido, el Centro de Innovación pretende aportar elementos dinamizadores para resolver retos que hasta el momento no tienen solución, entregar cada vez más valor a las entidades y ciudadanos, mejorar...</description>
+        <pubDate>Mon, 24 Sep 2018 22:21:35 -0500</pubDate>
+        <link>https://laboratorio-mintic.github.io/que-es-laboratorio/</link>
+        <guid isPermaLink="true">https://laboratorio-mintic.github.io/que-es-laboratorio/</guid>
+        
+        <category>jekyll</category>
+        
+        <category>web</category>
+        
+        
+        <category>Jekyll is awesome</category>
+        
+      </item>
+    
+      <item>
+        <title>Hola</title>
+        <description>&lt;p&gt;El Centro de Innovación Pública Digital del Ministerio de Tecnologías de la Información y las Comunicaciones se encuentra interesado en recibir cotizaciones con el fin de adelantar el respectivo estudio de mercado que soporte el proceso de selección cuyo objeto consistirá en el diseño e implementación de un espacio virtual para el Laboratorio del Centro de Innovación Pública Digital.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 24 Sep 2015 22:32:44 -0500</pubDate>
+        <link>https://laboratorio-mintic.github.io/hola/</link>
+        <guid isPermaLink="true">https://laboratorio-mintic.github.io/hola/</guid>
+        
+        <category>jekyll</category>
+        
+        <category>template</category>
+        
+        
+        <category>I love Jekyll</category>
+        
+      </item>
+    
+  </channel>
+</rss>
