@@ -1,1 +1,0 @@
-# laboratorio-mintic.github.io
