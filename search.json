@@ -1,17 +1,17 @@
 [
   
     {
-      "title"    : "Qué es el laboratorio",
+      "title"    : "¿Qué es el laboratorio de innovación?",
       "category" : "Jekyll is awesome",
-      "tags"     : "jekyll and web",
+      "tags"     : "laboratorio",
       "url"      : "/que-es-laboratorio/",
       "date"     : "24 Sep 2018"
     } ,
   
     {
-      "title"    : "Hola",
-      "category" : "I love Jekyll",
-      "tags"     : "jekyll and template",
+      "title"    : "Bienvenidos",
+      "category" : "noticias",
+      "tags"     : "laboratorio",
       "url"      : "/hola/",
       "date"     : "24 Sep 2015"
     } 
